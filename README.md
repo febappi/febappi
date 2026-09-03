@@ -56,7 +56,6 @@ I'm still learning, still building, and figuring things out one project at a tim
 <img src="https://skillicons.dev/icons?i=js" width="50" />
 <img src="https://skillicons.dev/icons?i=react" width="50" />
 <img src="https://skillicons.dev/icons?i=mysql" width="50" />
-<img src="https://skillicons.dev/icons?i=oracle" width="50" />
 <img src="https://skillicons.dev/icons?i=git" width="50" />
 <img src="https://skillicons.dev/icons?i=github" width="50" />
 <img src="https://skillicons.dev/icons?i=vscode" width="50" />
@@ -80,17 +79,17 @@ I enjoy turning ideas into something functional and learning from the problems t
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=febappi&show_icons=true"
+    alt="Bappi's GitHub Stats"
+  />
+</p>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=febappi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=febappi&layout=compact&theme=transparent&hide_border=true"
-  height="180"
-/>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=febappi&layout=compact"
+    alt="Top Languages"
+  />
 </p>
 
 ---
