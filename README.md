@@ -87,24 +87,12 @@ I enjoy turning ideas into something functional and learning from the problems t
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=febappi"
-    alt="GitHub Statistics"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=febappi&layout=compact"
-    alt="Top Languages"
-    height="180"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=febappi&theme=github" width="100%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=febappi"
-    alt="GitHub Streak"
-    height="180"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=febappi&theme=github" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=febappi&theme=github" width="49%" />
 </p>
 
 ---
