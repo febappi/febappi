@@ -56,13 +56,15 @@ I'm still learning, still building, and figuring things out one project at a tim
 <img src="https://skillicons.dev/icons?i=js" width="50" />
 <img src="https://skillicons.dev/icons?i=react" width="50" />
 <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
 <img src="https://skillicons.dev/icons?i=git" width="50" />
 <img src="https://skillicons.dev/icons?i=github" width="50" />
 <img src="https://skillicons.dev/icons?i=vscode" width="50" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" />
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" />
+
+
 
 
 
@@ -82,7 +84,28 @@ I enjoy turning ideas into something functional and learning from the problems t
 
 ---
 
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=febappi"
+    alt="GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=febappi&layout=compact"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=febappi"
+    alt="GitHub Streak"
+    height="180"
+  />
+</p>
 
 ---
 
