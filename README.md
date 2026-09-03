@@ -99,14 +99,14 @@ I enjoy turning ideas into something functional and learning from the problems t
 
 ## 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
 <img
   src="https://streak-stats.demolab.com?user=febappi&theme=transparent&hide_border=true"
   width="500"
 />
 
-</p>
+</div>
 
 ---
 
