@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MD.%20FOZLE%20ELAHE%20BAPPI&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20Student&descAlignY=60&descSize=18" width="100%" />
+  <img src="./banner/gbanner.png"/>
 </p>
 
 <!-- ===================== INTRO ===================== -->
@@ -28,11 +28,11 @@
 
 ## 👨‍💻 About Me
 
-I'm **MD. Fozle Elahe Bappi**, a Computer Science and Engineering student at **Daffodil International University**.
+Hi, I'm **Bappi**, a Computer Science and Engineering student at **Daffodil International University**.
 
-I'm interested in software development and enjoy learning through hands-on practice. I like exploring new technologies, building small and practical projects, understanding how things work, and improving my skills step by step.
+I'm learning software development by building things and experimenting with different technologies. I enjoy solving problems, understanding how things work, and improving through hands-on practice.
 
----
+I'm still learning, still building, and figuring things out one project at a time. 🚀
 
 ## 🔭 Currently
 
