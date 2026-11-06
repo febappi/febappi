@@ -31,6 +31,8 @@ I'm learning software development by building things and experimenting with diff
 
 I'm still learning, still building, and figuring things out one project at a time. 🚀
 
+🌐 Portfolio: [febappi.netlify.app](https://febappi.netlify.app)
+
 ## 🔭 Currently
 
 - 🌱 Exploring modern web development
