@@ -34,7 +34,14 @@ I'm learning software development by building things and experimenting with diff
 
 I'm still learning, still building, and figuring things out one project at a time. 🚀
 
-## 🌐 **Portfolio:** [febappi.netlify.app](https://febappi.netlify.app)
+## 🌐 **Portfolio:**
+
+<p align="center">
+  <a href="https://febappi.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-febappi.netlify.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 
 ## 🔭 Currently
 
