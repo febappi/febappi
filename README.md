@@ -6,7 +6,7 @@
 
 <!-- ===================== INTRO ===================== -->
 
-<h1 align="center">Hi 👋, I'm Fozle Elahe Bappi</h1>
+<h1 align="center">Fozle Elahe Bappi</h1>
 
 <h3 align="center">
   Computer Science & Engineering Student · Developer in Progress
